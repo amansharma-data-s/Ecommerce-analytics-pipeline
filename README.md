@@ -9,12 +9,15 @@ This project analyzes ~100K orders from a Brazilian e-commerce platform through 
 ## Dashboard Preview
 
 ![Overview Page](PowerBI/overview.png)
+
 *KPI landing page — revenue, repeat customer rate, delivery performance, and review score at a glance.*
 
 ![Revenue & Order Patterns](PowerBI/revenue-order-patterns.png)
+
 *Category revenue breakdown, seasonal trend, and order-value distribution.*
 
 ![Customer Behavior](PowerBI/customer-behavior.png)
-  *State-level customer/revenue relationship, lifetime value distribution, and an interactive metric-switcher (Whale Comparison).*
+
+*State-level customer/revenue relationship, lifetime value distribution, and an interactive metric-switcher (Whale Comparison).*
 
 Full interactive dashboard: [link to hosted .pbix or a Power BI published report, once available]
