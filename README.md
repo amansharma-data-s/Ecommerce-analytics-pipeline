@@ -15,6 +15,6 @@ This project analyzes ~100K orders from a Brazilian e-commerce platform through 
 *Category revenue breakdown, seasonal trend, and order-value distribution.*
 
 ![Customer Behavior](PowerBI/customer-behavior.png)
-*State-level customer/revenue relationship, lifetime value distribution, and an interactive metric-switcher (Whale Comparison).*
+  *State-level customer/revenue relationship, lifetime value distribution, and an interactive metric-switcher (Whale Comparison).*
 
 Full interactive dashboard: [link to hosted .pbix or a Power BI published report, once available]
